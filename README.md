@@ -1,2 +1,6 @@
-# whatsapp-mp3
-A Node js server which allows you to send youtube link of a song to the number and in return recieve mp3 download link for that link
+# WhatsApp MP3 App 🎵
+
+Originally developed in 2024  
+Updated and improved in 2025 ✨
+
+This project lets users manage or process WhatsApp MP3 files.
